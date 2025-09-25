@@ -57,7 +57,7 @@ Ce projet fait partie de mon portfolio et illustre :
 ---
 ## 📌 À propos  
 
-Ce projet inclut également le fichier **`forexapi.py`**, qui représente le cœur logique de l’AI Trading System.  
+Ce projet inclut également le fichier **`forexAPI.py`**, qui représente le cœur logique de l’AI Trading System.  
 C’est ce fichier qui se connecte à l’API TradingView, traite les données et génère les recommandations (BUY, SELL, NEUTRAL).  
 
 📧 Contact : *youssefbenyahia6@gmail.com*  
