@@ -23,7 +23,7 @@ Il s’agit d’un outil d’aide à la décision pour les traders de devises, c
 ### 1️⃣ Capture d’écran – Interface principale  
 Voici un aperçu de l’interface utilisateur de **tRadex** :  
 
-![Interface principale](examples/TRadex.png)  
+![Interface principale](TRadex.png)  
 
 ---
 
@@ -32,7 +32,7 @@ La vidéo montre :
 - 📈 Comment les **graphiques de chandeliers japonais** permettent d’analyser visuellement les tendances du marché.  
 - 🤖 Comment l’outil **AI Recommendation** propose une décision (BUY, SELL ou NEUTRAL) pour la paire sélectionnée.  
 
-[🎬 Voir la vidéo de démonstration](examples/demo.mp4)  
+[🎬 Voir la vidéo de démonstration](tRadex_vid.mp4)  
 
 ---
 
