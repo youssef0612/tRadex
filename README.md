@@ -40,6 +40,7 @@ La vidéo montre :
 Voici trois exemples de résultats générés par l’IA sous forme de **diagrammes circulaires** (Pie Charts).  
 Ces graphiques représentent la répartition des recommandations :  
 
+| Exemple 1   | Exemple 2    | Exemple 3       |
 |-------------|--------------|-----------------|
 | ![Résultat BUY](chart_1_simulation.png) | ![Résultat SELL](chart_2_simulation.png) | ![Résultat NEUTRAL](chart_3_simulation.png) |  
 
